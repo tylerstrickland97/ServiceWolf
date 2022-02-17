@@ -1,0 +1,3 @@
+# CSC IT
+* 3,New,Moodle down,sesmith5,0,Unowned
+- When I go to wolfware.ncsu.edu, I get a 500 error

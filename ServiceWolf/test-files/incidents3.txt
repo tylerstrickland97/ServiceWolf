@@ -1,0 +1,26 @@
+# OIT
+* 1,In Progress,Forgot password,jctetter,0,oit_staff,No Status
+- I forgot my password and can't log into NC State accounts
+- OIT staff member on call with support
+# CSC IT
+* 2,Canceled,Piazza,sesmith5,0,Unowned,Not an Incident
+- Set up piazza for Spring 2021
+- Canceled; not an NC State IT service
+* 3,New,Moodle down,sesmith5,0,Unowned,No Status
+- When I go to wolfware.ncsu.edu, I get a 500 error
+* 4,Resolved,Set up Jenkins VMs,sesmith5,1,cgurley,Permanently Solved
+- Please set up Jenkins VMs for Spring 2021 semester.
+- Assigned to C. Gurley
+- Set up test VM. Awaiting verification from caller.
+- VM works great, please deploy the rest.
+- VMs deployed. Marked resolved.
+- One of the VMs has the wrong version of Checkstyle installed.
+- Updated version of Checkstyle.
+* 9,In Progress,Jenkins behind firewall,sesmith5,0,cgurley,No Status
+- Jenkins requires VPN to access.  Please open to general access.
+- Assigned to C. Gurley
+# ITECS
+* 7,On Hold,Java not installed correctly,zmgrosec,0,itecs1,Awaiting Caller
+- I can't install Java on my computer.
+- Assigned to itecs1
+- Awaiting caller's feedback on attempting to install Java from Oracle

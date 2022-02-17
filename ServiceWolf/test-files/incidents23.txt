@@ -1,0 +1,9 @@
+# CSC IT
+* 4,Resolved,Set up Jenkins VMs,sesmith5,1,Unowned,Permanently Solved
+- Please set up Jenkins VMs for Spring 2021 semester.
+- Assigned to C. Gurley
+- Set up test VM. Awaiting verification from caller.
+- VM works great, please deploy the rest.
+- VMs deployed. Marked resolved.
+- One of the VMs has the wrong version of Checkstyle installed.
+- Updated version of Checkstyle.

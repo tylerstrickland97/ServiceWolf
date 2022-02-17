@@ -1,0 +1,4 @@
+# CSC IT
+* 9,In Progress,Jenkins behind firewall,sesmith5,0,cgurley,Caller Canceled
+- Jenkins requires VPN to access.  Please open to general access.
+- Assigned to C. Gurley

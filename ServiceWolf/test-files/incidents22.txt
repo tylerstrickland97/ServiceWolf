@@ -1,0 +1,5 @@
+# CSC IT
+* 7,On Hold,Java not installed correctly,zmgrosec,0,itecs1,Caller Canceled
+- I can't install Java on my computer.
+- Assigned to itecs1
+- Awaiting caller's feedback on attempting to install Java from Oracle
